@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Menu(View view) {
-        Intent intent = new Intent(MainActivity.this, Menu2Activity.class);
+        Intent intent = new Intent(MainActivity.this, Menu3Activity.class);
         startActivity(intent);
     }
 }
