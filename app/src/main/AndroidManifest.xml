@@ -16,9 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MenuActivity" />
-        <activity android:name=".Menu2Activity" />
-        <activity android:name=".Menu3Activity"></activity>
+        <activity android:name=".Menu3Activity" />
+        <activity android:name=".TotalActivity" />
+        <activity android:name=".ThankYou"></activity>
     </application>
 
 </manifest>
